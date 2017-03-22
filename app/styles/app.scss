@@ -4,3 +4,13 @@
 @import 'mixins';
 
 @import 'listr';
+
+body {
+  background: teal;
+  color: white;
+}
+
+a, a:hover {
+  color: white;
+  text-decoration: underline;
+}
